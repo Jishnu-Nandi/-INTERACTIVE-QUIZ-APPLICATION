@@ -59,3 +59,7 @@ JavaScript: Logic was written to dynamically populate questions, listen for user
 **Conclusion**:
 
 This project successfully demonstrates how to create a responsive and interactive quiz application using only frontend technologies. It provides a strong foundation for extending features such as timers, progress bars, and backend score saving in future versions. The use of real-time feedback and a professional interface ensures a smooth and engaging user experience.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/1aef1f6a-a122-46f1-9eba-f4cce87ad245)
